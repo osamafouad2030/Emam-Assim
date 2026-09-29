@@ -1,0 +1,6 @@
+{
+  "name": "Mishkah",
+  "description": "منصة مشكاة التعليمية التفاعلية متعددة المستويات لتحويل الكتب والمحتوى الثقافي والعلمي إلى دروس تفاعلية مع لوحة تحليلات أداء الطلاب ودعم فوري للعربية والإنجليزية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

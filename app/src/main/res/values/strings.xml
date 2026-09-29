@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mishkah</string>
+    <string name="brand_subtitle_ar">مشكاة المعرفة والبيان — التعلم التفاعلي متعدد المستويات</string>
+    <string name="brand_subtitle_en">Mishkah Interactive Multi-Level Learning Platform</string>
+    <string name="cd_language_toggle">Toggle Language AR/EN</string>
+    <string name="cd_theme_toggle">Toggle Theme</string>
+    <string name="cd_logout">Logout</string>
+    <string name="cd_hero_banner">Mishkah Classical Library Banner</string>
+    <string name="cd_app_logo">Mishkah Emblem</string>
+    <string name="cd_export_report">Export Student Report</string>
+</resources>

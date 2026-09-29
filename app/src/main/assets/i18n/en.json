@@ -1,0 +1,23 @@
+{
+  "locale": "en",
+  "direction": "ltr",
+  "appTitle": "Mishkah",
+  "appSubtitle": "Interactive Platform for Knowledge & Rhetoric",
+  "bookTitle": "Mishkah: Foundations of Systematic Inquiry & Eloquence",
+  "levels": {
+    "beginner": "Beginner Level — Foundations & Concepts",
+    "intermediate": "Intermediate Level — Application & Analysis",
+    "advanced": "Advanced Level — Deduction & Mastery"
+  },
+  "roles": {
+    "student": "Student",
+    "instructor": "Instructor",
+    "admin": "System Admin"
+  },
+  "navigation": {
+    "curriculum": "Curriculum",
+    "analytics": "Analytics",
+    "analyzer": "Book Analyzer",
+    "cms": "Content Studio"
+  }
+}
